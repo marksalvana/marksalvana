@@ -5,7 +5,7 @@
     </div>
     <div class="header flex-auto">
         <header>
-            <h1 class="text-3xl underline">Header</h1>
+            <h1 class="text-3xl underline bg-green">Header</h1>
             <nav>
                 <ul class="flex flex-row">
                     <li class="px-10"><a href="/">Home</a></li>
