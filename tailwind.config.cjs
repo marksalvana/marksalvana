@@ -15,6 +15,10 @@ export default {
 			blue: '#1E3F5A',
 			gray: '#EFEFEF'
 		},
+		fontFamily: {
+			sans: ['Roboto Mono', 'monospace'],
+			serif: ['Poppins', 'sans-serif']
+		},
 		extend: {}
 	},
 	plugins: []
