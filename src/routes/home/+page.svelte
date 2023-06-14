@@ -2,7 +2,22 @@
 
 </script>
 
-<h1>welcome to my life</h1>
+<section>
+    <!--- Header -->
+    <header>
+
+    </header>
+    <!--- navigation-->
+    <nav>
+        <menu>
+            <ul>
+                <li>Home</li>
+                
+            </ul>
+        </menu>
+    </nav>
+
+</section>
 
 <style>
     h1 {
