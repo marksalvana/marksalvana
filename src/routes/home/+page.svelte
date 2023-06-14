@@ -12,6 +12,8 @@
         <menu>
             <ul>
                 <li>Home</li>
+                <li>About</li>                
+                <li>CV</li>
                 
             </ul>
         </menu>
