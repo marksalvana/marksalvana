@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKits</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import {particles } from 'particles.js';
+  </script>
+  
+  <div id="particles-js">
+</div>

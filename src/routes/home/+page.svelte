@@ -14,11 +14,11 @@
                 <li>Home</li>
                 <li>About</li>                
                 <li>CV</li>
-                
             </ul>
         </menu>
     </nav>
 
+    
 </section>
 
 <style>
