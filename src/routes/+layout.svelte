@@ -1,8 +1,11 @@
 <script>
     import '../app.css';
-
+    import Particles from '../components/particles.svelte';
 
 </script>
 
-<slot />
-<h2>hihi</h2>
+<main>
+
+    <Particles />
+    <slot />
+</main>

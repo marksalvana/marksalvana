@@ -1,6 +1,6 @@
 <script>
-    import {particles } from 'particles.js';
   </script>
   
-  <div id="particles-js">
+<div style="min-width: 100%; min-height:100%;">
+test
 </div>
