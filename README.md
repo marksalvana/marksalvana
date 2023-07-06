@@ -1,7 +1,7 @@
 <!-- About Section -->
 
 <br/>
-<a href="https://marksalvana.com">
+<a target="_blank" href="https://marksalvana.com">
  <img width="auto" margin="auto" height="auto" src="static/featured-3.JPG" alt="Coding gif" />
  </a>
 <br/>
