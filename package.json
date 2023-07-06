@@ -36,6 +36,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"particles.js": "^2.0.0"
+		"install": "^0.13.0",
+		"npm": "^9.7.2",
+		"svelte-particles": "^2.10.1",
+		"svelte-preprocess": "^5.0.4",
+		"tsparticles-engine": "^2.10.1"
 	}
 }
